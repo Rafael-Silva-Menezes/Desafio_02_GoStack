@@ -2,7 +2,6 @@ const express = require("express");
 const cors = require("cors");
 
 const { uuid } = require("uuidv4");
-const { splice } = require("../../../Aulas/API/src/contacts");
 
 const app = express();
 
